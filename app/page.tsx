@@ -71,9 +71,6 @@ export default function Home() {
             <p className="mt-4 text-sm leading-6 text-pink-100/70">
               Фреймворк для создания быстрых React-приложений с SSR и маршрутизацией.
             </p>
-            <div className="skill-tooltip absolute left-1/2 top-0 z-10 w-72 -translate-x-1/2 -translate-y-full rounded-3xl border border-pink-500/20 bg-[#170a1f] p-4 text-sm text-zinc-200 opacity-0 shadow-2xl shadow-pink-500/10 transition-all duration-300 group-hover:opacity-100 group-hover:-translate-y-5">
-              Next.js упрощает создание современных веб-приложений с рендерингом на сервере и динамическими маршрутами.
-            </div>
           </article>
 
           <article className="sakura-card group relative overflow-hidden rounded-3xl p-6">
@@ -81,9 +78,6 @@ export default function Home() {
             <p className="mt-4 text-sm leading-6 text-pink-100/70">
               Статическая типизация для безопасности кода и удобной разработки.
             </p>
-            <div className="skill-tooltip absolute left-1/2 top-0 z-10 w-72 -translate-x-1/2 -translate-y-full rounded-3xl border border-pink-500/20 bg-[#170a1f] p-4 text-sm text-zinc-200 opacity-0 shadow-2xl shadow-pink-500/10 transition-all duration-300 group-hover:opacity-100 group-hover:-translate-y-5">
-              TypeScript помогает находить ошибки на этапе написания кода и делает проекты более поддерживаемыми.
-            </div>
           </article>
 
           <article className="sakura-card group relative overflow-hidden rounded-3xl p-6">
@@ -91,9 +85,6 @@ export default function Home() {
             <p className="mt-4 text-sm leading-6 text-pink-100/70">
               Библиотека для создания UI-компонентов с декларативным подходом.
             </p>
-            <div className="skill-tooltip absolute left-1/2 top-0 z-10 w-72 -translate-x-1/2 -translate-y-full rounded-3xl border border-pink-500/20 bg-[#170a1f] p-4 text-sm text-zinc-200 opacity-0 shadow-2xl shadow-pink-500/10 transition-all duration-300 group-hover:opacity-100 group-hover:-translate-y-5">
-              React позволяет строить гибкие интерфейсы и легко обновлять состояние приложения.
-            </div>
           </article>
 
           <article className="sakura-card group relative overflow-hidden rounded-3xl p-6">
@@ -101,9 +92,6 @@ export default function Home() {
             <p className="mt-4 text-sm leading-6 text-pink-100/70">
               Утилитарный CSS для быстрой стилизации интерфейсов.
             </p>
-            <div className="skill-tooltip absolute left-1/2 top-0 z-10 w-72 -translate-x-1/2 -translate-y-full rounded-3xl border border-pink-500/20 bg-[#170a1f] p-4 text-sm text-zinc-200 opacity-0 shadow-2xl shadow-pink-500/10 transition-all duration-300 group-hover:opacity-100 group-hover:-translate-y-5">
-              Tailwind ускоряет верстку за счёт готовых утилит и позволяет точно контролировать дизайн.
-            </div>
           </article>
 
           <article className="sakura-card group relative overflow-hidden rounded-3xl p-6">
@@ -111,9 +99,6 @@ export default function Home() {
             <p className="mt-4 text-sm leading-6 text-pink-100/70">
               Система контроля версий для работы с кодом и командных проектов.
             </p>
-            <div className="skill-tooltip absolute left-1/2 top-0 z-10 w-72 -translate-x-1/2 -translate-y-full rounded-3xl border border-pink-500/20 bg-[#170a1f] p-4 text-sm text-zinc-200 opacity-0 shadow-2xl shadow-pink-500/10 transition-all duration-300 group-hover:opacity-100 group-hover:-translate-y-5">
-              Git сохраняет историю изменений и помогает работать с ветками и командами.
-            </div>
           </article>
 
           <article className="sakura-card group relative overflow-hidden rounded-3xl p-6">
@@ -121,9 +106,6 @@ export default function Home() {
             <p className="mt-4 text-sm leading-6 text-pink-100/70">
               Создание умных функций и инструментов на основе искусственного интеллекта.
             </p>
-            <div className="skill-tooltip absolute left-1/2 top-0 z-10 w-72 -translate-x-1/2 -translate-y-full rounded-3xl border border-pink-500/20 bg-[#170a1f] p-4 text-sm text-zinc-200 opacity-0 shadow-2xl shadow-pink-500/10 transition-all duration-300 group-hover:opacity-100 group-hover:-translate-y-5">
-              AI Development включает генерацию контента, обработку данных и умные интерфейсы.
-            </div>
           </article>
         </div>
       </section>
