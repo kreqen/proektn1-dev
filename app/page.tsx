@@ -18,7 +18,7 @@ export default function Home() {
 
         <h1 className="max-w-4xl text-5xl font-bold leading-tight sm:text-7xl">
           Привет, я Kreqen.
-          <span className="block bg-gradient-to-r from-pink-100 via-rose-300 to-fuchsia-300 bg-clip-text text-transparent">
+          <span className="hero-subtitle block text-pink-200">
             Создаю современные сайты и приложения.
           </span>
         </h1>
